@@ -1,0 +1,36 @@
+<Assembly name="9c2cb79c491925f500a041b6d908fbaa20200329-3356-okcgko" filePath="/mnt/converter2/gc-converter2/9c2cb79c491925f500a041b6d908fbaa20200329-3356-okcgko.SLDASM">
+   <Assembly name="Default" filePath="/mnt/converter2/gc-converter2/9c2cb79c491925f500a041b6d908fbaa20200329-3356-okcgko.SLDASM">
+      <Assembly name="775pro_775pro_Connect_and_32DP_Pinion_217-6348.STEP-1" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\775pro_775pro_Connect_and_32DP_Pinion_217-6348.STEP.SLDASM">
+         <Assembly name="217-6457-000 Rev2.STEP-1" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6457-000 Rev2.STEP.SLDASM">
+            <Assembly name="217-6457-900 Rev1.STEP-1" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6457-900 Rev1.STEP.SLDASM">
+               <Part name="217-6457-901 Rev3_Instruction Config.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6457-901 Rev3_Instruction Config.STEP.SLDPRT">
+               </Part>
+               <Part name="30-45BBS Rev1_SHORTENED CONTACT.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\30-45BBS Rev1_SHORTENED CONTACT.STEP.SLDPRT">
+               </Part>
+               <Part name="30-45BBS Rev1_SHORTENED CONTACT.STEP-2<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\30-45BBS Rev1_SHORTENED CONTACT.STEP.SLDPRT">
+               </Part>
+               <Part name="PA45XX-X Rev1.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\PA45XX-X Rev1.STEP.SLDPRT">
+               </Part>
+               <Part name="PA45XX-X Rev1.STEP-2<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\PA45XX-X Rev1.STEP.SLDPRT">
+               </Part>
+            </Assembly>
+            <Part name="217-6457-001 Rev4.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6457-001 Rev4.STEP.SLDPRT">
+            </Part>
+            <Part name="217-6457-002 Rev7.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6457-002 Rev7.STEP.SLDPRT">
+            </Part>
+            <Part name="217-9191-008 Rev1.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-9191-008 Rev1.STEP.SLDPRT">
+            </Part>
+            <Part name="217-9191-008 Rev1.STEP-2<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-9191-008 Rev1.STEP.SLDPRT">
+            </Part>
+            <Part name="217-9191-008 Rev1.STEP-3<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-9191-008 Rev1.STEP.SLDPRT">
+            </Part>
+            <Part name="217-9191-008 Rev1.STEP-4<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-9191-008 Rev1.STEP.SLDPRT">
+            </Part>
+         </Assembly>
+         <Part name="217-4347-000 Rev2.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-4347-000 Rev2.STEP.SLDPRT">
+         </Part>
+         <Part name="217-5859-001 Rev7_12T 32DP.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-5859-001 Rev7_12T 32DP.STEP.SLDPRT">
+         </Part>
+      </Assembly>
+   </Assembly>
+</Assembly>

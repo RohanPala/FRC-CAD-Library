@@ -1,0 +1,64 @@
+<Assembly name="9d5fd83b62bda8b91b984e1ad9dc0ddb20200329-3386-1nz2rnv" filePath="/mnt/converter2/gc-converter2/9d5fd83b62bda8b91b984e1ad9dc0ddb20200329-3386-1nz2rnv.SLDASM">
+   <Assembly name="Default" filePath="/mnt/converter2/gc-converter2/9d5fd83b62bda8b91b984e1ad9dc0ddb20200329-3386-1nz2rnv.SLDASM">
+      <Assembly name="Falcon_500_Powered_by_Talon_FX_217-6515.STEP-1" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\Falcon_500_Powered_by_Talon_FX_217-6515.STEP.SLDASM">
+         <Assembly name="217-6515-200 Rev5.STEP-1" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-200 Rev5.STEP.SLDASM">
+            <Part name="217-6515-201 Rev6.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-201 Rev6.STEP.SLDPRT">
+            </Part>
+            <Part name="217-6515-202 Rev6.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-202 Rev6.STEP.SLDPRT">
+            </Part>
+         </Assembly>
+         <Part name="217-6515-Back 20190920.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-Back 20190920.STEP.SLDPRT">
+         </Part>
+         <Part name="217-6515-002 Rev6.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-002 Rev6.STEP.SLDPRT">
+         </Part>
+         <Part name="M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP.SLDPRT">
+         </Part>
+         <Part name="M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP-2<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP.SLDPRT">
+         </Part>
+         <Part name="M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP-3<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP.SLDPRT">
+         </Part>
+         <Part name="M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP-4<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP.SLDPRT">
+         </Part>
+         <Part name="M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP-5<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.STEP.SLDPRT">
+         </Part>
+         <Part name="217-6515-010 Rev1_9262K442.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-010 Rev1_9262K442.STEP.SLDPRT">
+         </Part>
+         <Part name="217-6515-001 Rev6.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-001 Rev6.STEP.SLDPRT">
+         </Part>
+         <Part name="217-6515-005 Rev4_7804K116.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-005 Rev4_7804K116.STEP.SLDPRT">
+         </Part>
+         <Part name="M3 BHTS-SECURE, Grade 8 Steel Rev1_SBTM3-24MMZB-SECURE.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M3 BHTS-SECURE, Grade 8 Steel Rev1_SBTM3-24MMZB-SECURE.STEP.SLDPRT">
+         </Part>
+         <Part name="M3 BHTS-SECURE, Grade 8 Steel Rev1_SBTM3-24MMZB-SECURE.STEP-2<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M3 BHTS-SECURE, Grade 8 Steel Rev1_SBTM3-24MMZB-SECURE.STEP.SLDPRT">
+         </Part>
+         <Part name="M3 BHTS-SECURE, Grade 8 Steel Rev1_SBTM3-24MMZB-SECURE.STEP-3<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M3 BHTS-SECURE, Grade 8 Steel Rev1_SBTM3-24MMZB-SECURE.STEP.SLDPRT">
+         </Part>
+         <Part name="M3 BHTS, Grade 8 Steel Rev1_SBTM3-50MMZB.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M3 BHTS, Grade 8 Steel Rev1_SBTM3-50MMZB.STEP.SLDPRT">
+         </Part>
+         <Part name="M3 BHTS, Grade 8 Steel Rev1_SBTM3-50MMZB.STEP-2<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M3 BHTS, Grade 8 Steel Rev1_SBTM3-50MMZB.STEP.SLDPRT">
+         </Part>
+         <Part name="M3 BHTS, Grade 8 Steel Rev1_SBTM3-50MMZB.STEP-3<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\M3 BHTS, Grade 8 Steel Rev1_SBTM3-50MMZB.STEP.SLDPRT">
+         </Part>
+         <Part name="217-6515-308 Rev5.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-6515-308 Rev5.STEP.SLDPRT">
+         </Part>
+         <Part name="#4-40 SHCS, Grade 8 Steel Rev2_SSA0440-0125ZB.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\#4-40 SHCS, Grade 8 Steel Rev2_SSA0440-0125ZB.STEP.SLDPRT">
+         </Part>
+         <Part name="#4-40 SHCS, Grade 8 Steel Rev2_SSA0440-0125ZB.STEP-2<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\#4-40 SHCS, Grade 8 Steel Rev2_SSA0440-0125ZB.STEP.SLDPRT">
+         </Part>
+         <Part name="217-4649-007 Rev1_94105A824.STEP-1<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-4649-007 Rev1_94105A824.STEP.SLDPRT">
+         </Part>
+         <Part name="217-4649-007 Rev1_94105A824.STEP-2<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-4649-007 Rev1_94105A824.STEP.SLDPRT">
+         </Part>
+         <Part name="217-4649-007 Rev1_94105A824.STEP-3<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-4649-007 Rev1_94105A824.STEP.SLDPRT">
+         </Part>
+         <Part name="217-4649-007 Rev1_94105A824.STEP-4<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-4649-007 Rev1_94105A824.STEP.SLDPRT">
+         </Part>
+         <Part name="217-4649-007 Rev1_94105A824.STEP-5<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-4649-007 Rev1_94105A824.STEP.SLDPRT">
+         </Part>
+         <Part name="217-4649-007 Rev1_94105A824.STEP-6<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-4649-007 Rev1_94105A824.STEP.SLDPRT">
+         </Part>
+         <Part name="217-4649-007 Rev1_94105A824.STEP-7<" filePath="C:\Users\Rohan Paladugu\AppData\Local\Temp\swx12628\IC~~\217-4649-007 Rev1_94105A824.STEP.SLDPRT">
+         </Part>
+      </Assembly>
+   </Assembly>
+</Assembly>
